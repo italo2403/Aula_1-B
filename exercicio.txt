@@ -1,0 +1,33 @@
+	1) Sabendo que o lucro anual de uma empresa é, tipicamente, 23% 	do total de vendas, crie um algoritmo que solicite ao usuário 	entre com o valor projetado do total de vendas e, em seguida, 	calcule e exiba o lucro que deve ser obtido com esse valor. 	Lembrete: 23% = 23\100 = 0,23
+
+	2) Um acre de terra é equivalente a 4.046,86 m2, a 43.560 ft2 	(pés quadrados) e a 0,404686 hectares. Crie um algoritmo que 	solicite ao usuário que informe a área de um terreno em metros 	quadrados e mostre as áreas correspondentes em acres, pés 	quadrados e hectares. 
+
+	3) Dê o resultado que será exibido na tela depois da execução 	desse trecho do programa abaixo e diga qual será a saída correta.
+	X  <- 3
+	Y  <- 10
+	R <-  y mod x
+	console.log(R)
+
+	4) Faça o calculo abaixo: 
+	X <- 5 * 4
+	Y <- 5 ^ 2
+	Z <- 8 % 2
+	W <- 18 / 8
+	K <- 14 \ 7
+	M <- W + X
+	N <- M – K
+	N <- ((Y + X) * (X - Y))
+	O <- (N - Y + X) + ((X + Y) * (Y - X))
+
+
+
+
+
+
+	5) Sabendo que A=3, B=7 e C=4, informe se as expressões abaixo 	são verdadeiras ou falsas. 
+	a) (A+C) > B ( ) 
+	b) B >= (A + 2) ( ) 
+	c) C = (B –A) ( ) 
+	d) (B + A) <= C ( ) 
+	e) (C+A) > B ( )
+
